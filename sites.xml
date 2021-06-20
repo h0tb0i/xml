@@ -1,0 +1,19 @@
+<site-list version="2">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>06/16/2021 05:43:28</date-created>
+  </created-by>
+  <site url="edge.asic.gov.au">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="google.com.au">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="mytnt.tnt.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+</site-list>
